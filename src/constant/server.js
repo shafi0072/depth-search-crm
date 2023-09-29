@@ -1,0 +1,1 @@
+export const baseUrl = "https://depth-search-server-2023.vercel.app"
